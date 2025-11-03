@@ -443,7 +443,7 @@ export default function BlogPost() {
             </div>
           </div>
 
-          <div className="relative h-96 mb-12 rounded-xl overflow-hidden">
+          <div className="relative h-100 mb-12 rounded-xl overflow-hidden">
             <img
               src={post.image}
               alt={post.title}
