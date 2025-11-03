@@ -4,9 +4,9 @@ import { Footer } from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ArrowLeft, Clock, Calendar } from "lucide-react";
-import blogImage1 from "../assets/stock_images/technology_coding_pr_01f73814.jpg";
-import blogImage2 from "../assets/stock_images/react-per.jpg";
-import blogImage3 from "../assets/stock_images/web_application_dash_aee29e23.jpg";
+import blogImage1 from "../assets/stock_images/sdlc.jpg";
+import blogImage2 from "../assets/stock_images/cricklink.jpg";
+import blogImage3 from "../assets/stock_images/react-per.jpg";
 
 const blogData = {
   "commerce-to-code": {
